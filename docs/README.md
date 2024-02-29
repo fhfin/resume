@@ -91,7 +91,7 @@ tagline: web前端开发
   <div :style="{fontWeight:'bold'}">2022/10 - 2023/2</div>
 </div>
 
-【涉及技术】：vue2全家桶，element-ui，echarts
+【涉及技术】：vue2全家桶，element-ui，echarts 
 
 【项目描述】：公司开发有时在云桌面开发，里面和外面文件的移动比较麻烦，开发文件系统来方便操作和管理。其次开发一个平台，整合公司内部工具系统，减少登录次数，提高效率和用户体验
 
