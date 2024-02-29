@@ -12,8 +12,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "vue": "^3.4.21",
-    "vue-template-compiler": "^2.7.16",
+    "vue": "^2.7.16",
     "vuepress": "^1.9.10"
   }
 }
