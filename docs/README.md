@@ -10,12 +10,17 @@ tagline: web前端开发
   <div :style="{fontWeight:'bold'}">性别：男</div>
   <div :style="{fontWeight:'bold'}">年龄：24</div>
   <div :style="{fontWeight:'bold'}">手机号码：13979788219</div>
+</div>
+<div :style="{display: 'flex', justifyContent: 'space-between'}">
+  <div :style="{fontWeight:'bold'}">户籍：江西赣州</div>
+  <div :style="{fontWeight:'bold'}">学历：本科</div>
   <div :style="{fontWeight:'bold'}">邮箱：1989682019@qq.com</div>
 </div>
 
 ## 专业技能
-
-- 熟练掌握 HTML5，CSS3，JavaScript，ES6，vue2全家桶，element-ui，echarts，Http协议，ajax异步请求，axios，scss，git
+- 扎实的 HTML5，CSS3，JavaScript 基础，可以快速高效开发项目，处理浏览器兼容和移动端适配问题
+- 丰富的 vue+element-ui 开发经验，对 vue 底层源码原理有深入学习和研究
+- 熟练掌握 ES6，vue2全家桶，element-ui，echarts，Http协议，ajax异步请求，axios，scss，git
 - 熟悉使用 vue3，vite，pinia，typescript，element-plus，vitepress，Tinymce
 
 ## 工作经历
@@ -23,7 +28,6 @@ tagline: web前端开发
 <div :style="{display: 'flex', justifyContent: 'space-between'}">
   <div :style="{fontWeight:'bold'}">曙光网络科技有限公司</div>
   <div :style="{fontWeight:'bold'}">web工程师</div>
-  <div :style="{fontWeight:'bold'}">前端项目组</div>
   <div :style="{fontWeight:'bold'}">2022/7-2024/1</div>
 </div>
 
@@ -35,7 +39,7 @@ tagline: web前端开发
 【工作成果】：
 - 参与了门户网站项目，独立负责了后台系统的设计和开发，合作开发一个门户网站，并完成了对移动端的适配
 - 进行了公司内部组件库的部分升级，完成了从vue2到vue3的版本迭代
-- 独立负责了门户平台的研发，平台中的文件系统，后台管理系统的研发，周报系统的迭代和维护。
+- 独立负责了门户平台的研发，平台中的文件系统，后台管理系统的研发，周报系统的迭代和维护
 
 ## 项目经历
 <div :style="{display: 'flex', justifyContent: 'space-between'}">
@@ -46,7 +50,7 @@ tagline: web前端开发
 
 【涉及技术】：vue3，pinia，vite，typescript，element-plus，Tinymce
 
-【项目描述】：因公司没有网站，所以该项目来填补网站空缺。项目主要是对前台网站的菜单，页面内容，产品内容，招聘内容，公司新闻等进行独立模块的设计，通过后台系统来动态的输入内容到前台网站进行展示
+【项目描述】：对前台网站的菜单，页面内容，产品内容，招聘内容，公司新闻等进行独立模块的设计，通过后台系统来动态的输入内容到前台网站进行展示
 
 【项目职责与成果】：
 
@@ -62,7 +66,7 @@ tagline: web前端开发
 
 【涉及技术】：vue2全家桶，element-ui，echarts
 
-【项目描述】：由于当初项目是外包出去的，所以每个页面的代码过于冗长，不利于阅读以及后续维护和开发。现在有很多分支需要基于其进行开发，因此对项目进行重构
+【项目描述】：由于项目老旧，每个页面代码量过于冗长，不方便后续的迭代与维护，因此对项目进行重构
 
 【项目职责与成果】：
 
@@ -77,7 +81,7 @@ tagline: web前端开发
 
 【涉及技术】：vue2全家桶，element-ui，echarts
 
-【项目描述】：由于当时负责人有其他项目要忙，于是接替其进行后续开发和维护，项目主要用于协议分析小组导入导出数据，在系统中方便其进行协议的分析和增删查改。
+【项目描述】：项目主要用于协议分析小组导入导出数据，在系统中方便其进行协议的分析和增删查改
 
 【项目职责与成果】：
 
@@ -93,11 +97,11 @@ tagline: web前端开发
 
 【涉及技术】：vue2全家桶，element-ui，echarts
 
-【项目描述】：公司开发有时在云桌面开发，里面和外面文件的移动比较麻烦，开发文件系统来方便操作和管理。其次开发一个平台，整合公司内部工具系统，减少登录次数，提高效率和用户体验
+【项目描述】：开发一个平台，整合公司内部工具系统，减少登录次数，提高效率和用户体验，开发文件系统由于传输文件，后台系统管理平台的系统和用户
 
 【项目职责与成果】：
 
-- 独立完成了文件系统，后台系统和门户平台的开发。
+- 独立完成了文件系统，后台系统和门户平台的开发
 - 使用同源策略方案，将门户平台登录后的token存在localStorage，点击门户平台的其他系统时，进入后拿到同源localStorage的token，实现无需再次登录操作
 - 使用Html2Canvas进行周报的PDF文件导出
 
@@ -106,7 +110,7 @@ tagline: web前端开发
 <div :style="{display: 'flex', justifyContent: 'space-between'}">
   <div :style="{fontWeight:'bold'}">2018/9-2022/6</div>
   <div :style="{fontWeight:'bold'}">湖北大学</div>
-  <div :style="{fontWeight:'bold'}">本科</div>
+  <div :style="{fontWeight:'bold'}">物联网工程</div>
 </div>
 
 ## 自我评价
