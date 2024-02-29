@@ -6,17 +6,19 @@ tagline: web前端开发
 
 ## 个人介绍
 
-<div :style="{display: 'flex', justifyContent: 'space-between'}">
-  <div :style="{fontWeight:'bold'}">性别：男</div>
-  <div :style="{fontWeight:'bold'}">年龄：24</div>
-</div>
-<div :style="{display: 'flex', justifyContent: 'space-between'}">
-  <div :style="{fontWeight:'bold'}">手机号码：13979788219</div>
-  <div :style="{fontWeight:'bold'}">户籍：江西赣州</div>
-</div>
-<div :style="{display: 'flex', justifyContent: 'space-between'}">
-  <div :style="{fontWeight:'bold'}">学历：本科</div>
-  <div :style="{fontWeight:'bold'}">邮箱：1989682019@qq.com</div>
+<div :style="{fontSize:'14px'}">
+  <div :style="{display: 'flex', justifyContent: 'space-between'}">
+    <div :style="{fontWeight:'bold'}">性别：男</div>
+    <div :style="{fontWeight:'bold'}">年龄：24</div>
+  </div>
+  <div :style="{display: 'flex', justifyContent: 'space-between'}">
+    <div :style="{fontWeight:'bold'}">手机号码：13979788219</div>
+    <div :style="{fontWeight:'bold'}">户籍：江西赣州</div>
+  </div>
+  <div :style="{display: 'flex', justifyContent: 'space-between'}">
+    <div :style="{fontWeight:'bold'}">学历：本科</div>
+    <div :style="{fontWeight:'bold'}">邮箱：1989682019@qq.com</div>
+  </div>
 </div>
 
 ## 专业技能
