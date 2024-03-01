@@ -29,7 +29,7 @@ tagline: web前端开发
 
 ## 工作经历
 
-<div :style="{display: 'flex', justifyContent: 'space-between'}">
+<div :style="{display: 'flex', justifyContent: 'space-between',fontSize:'22px'}">
   <div :style="{fontWeight:'bold'}">曙光网络科技有限公司</div>
   <div :style="{fontWeight:'bold'}">web工程师</div>
   <div :style="{fontWeight:'bold'}">2022/7-2024/1</div>
@@ -46,23 +46,24 @@ tagline: web前端开发
 - 独立负责了门户平台的研发，平台中的文件系统，后台管理系统的研发，周报系统的迭代和维护
 
 ## 项目经历
-<div :style="{display: 'flex', justifyContent: 'space-between'}">
-  <div :style="{fontWeight:'bold'}">门户网站项目</div>
+<div :style="{display: 'flex', justifyContent: 'space-between',fontSize:'22px'}">
+  <div :style="{fontWeight:'bold'}">曙光、合耕网站项目</div>
   <div :style="{fontWeight:'bold'}">项目负责人</div>
   <div :style="{fontWeight:'bold'}">2023/10 - 2024/1</div>
 </div>
 
 【涉及技术】：vue3，pinia，vite，typescript，element-plus，Tinymce
 
-【项目描述】：对前台网站的菜单，页面内容，产品内容，招聘内容，公司新闻等进行独立模块的设计，通过后台系统来动态的输入内容到前台网站进行展示
+【项目描述】：两个公司的网站项目，由一个后台系统共同维护网站。对前台网站的菜单，页面内容，产品内容，招聘内容，公司新闻等进行独立模块的设计，通过后台系统来动态的输入内容到前台网站进行展示
 
 【项目职责与成果】：
 
 - 独立完成了后台文章管理，菜单管理，招聘管理，产品管理等十多个管理模块的开发
 - 根据UI的设计，完成了两个前台网站的研发与联调，完成了一个网站对移动端的适配，为用户提供良好的浏览体验
 - 使用tinymce富文本编辑器提供后台编辑能力，解决了文本内容的编辑功能和图片上传功能
+- 使用自定义HTTP头部System_Flag不同值来区分后台，管理不同的公司网站
 
-<div :style="{display: 'flex', justifyContent: 'space-between'}">
+<div :style="{display: 'flex', justifyContent: 'space-between',fontSize:'22px'}">
   <div :style="{fontWeight:'bold'}">溯源项目</div>
   <div :style="{fontWeight:'bold'}">web开发</div>
   <div :style="{fontWeight:'bold'}">2022/7 - 2023/9</div>
@@ -70,14 +71,14 @@ tagline: web前端开发
 
 【涉及技术】：vue2全家桶，element-ui，echarts
 
-【项目描述】：公司服务器搭配的B端后台管理系统，提供数据可视化服务以及大屏展示
+【项目描述】：公司服务器搭配的B端后台管理系统，由于项目老旧，单文件代码量冗长，进行重构，并且提供数据可视化服务以及大屏展示
 
 【项目职责与成果】：
 
-- 合作完成了项目的重构，对部分组件进行了封装，大大减少了项目的代码量
+- 完成了报表模块等多个模块的重构，对部分组件进行了封装，大大减少了项目的代码量
 - 使用Echarts完成大屏的开发，进行了自适应处理，以及项目所有的图表的个性化开发，美化图表的展示
 
-<div :style="{display: 'flex', justifyContent: 'space-between'}">
+<div :style="{display: 'flex', justifyContent: 'space-between',fontSize:'22px'}">
   <div :style="{fontWeight:'bold'}">协议分析项目</div>
   <div :style="{fontWeight:'bold'}">项目负责人</div>
   <div :style="{fontWeight:'bold'}">2023/4 - 2023/6</div>
@@ -93,7 +94,7 @@ tagline: web前端开发
 - 完成了文件的上传和导出，使用keep-alive组件对不同页面进行持久化保存
 - 与两个后端进行了联调，分别是python和java，根据不同请求地址使用nginx来对不同的服务进行访问
 
-<div :style="{display: 'flex', justifyContent: 'space-between'}">
+<div :style="{display: 'flex', justifyContent: 'space-between',fontSize:'22px'}">
   <div :style="{fontWeight:'bold'}">门户平台项目</div>
   <div :style="{fontWeight:'bold'}">项目负责人</div>
   <div :style="{fontWeight:'bold'}">2022/10 - 2023/2</div>
@@ -111,7 +112,7 @@ tagline: web前端开发
 
 ## 教育经历
 
-<div :style="{display: 'flex', justifyContent: 'space-between'}">
+<div :style="{display: 'flex', justifyContent: 'space-between',fontSize:'22px'}">
   <div :style="{fontWeight:'bold'}">2018/9-2022/6</div>
   <div :style="{fontWeight:'bold'}">湖北大学</div>
   <div :style="{fontWeight:'bold'}">物联网工程</div>
@@ -120,5 +121,5 @@ tagline: web前端开发
 ## 自我评价
 
 - 丰富的vue以及b端开发经验，可以快速的开发vue项目以及提高用户的操作体验
-- 积极的沟通，在项目开发过程中可以和后端更好的进行联调
-- 平时喜欢丰富自己的知识，经常会看掘金中的文章来学习知识
+- 积极的沟通能力，在项目开发过程中可以和后端更好的进行联调
+- 平时喜欢丰富自己的知识，经常会看掘金中的文章来学习知识，目前正在学习react丰富自己前段技术
