@@ -41,7 +41,7 @@ tagline: web前端开发
 - 使用Echarts进行数据可视化，个性化的图表设计以及大屏的开发
 
 【工作成果】：
-- 参与了门户网站项目，独立负责了后台系统的设计和开发，合作开发一个门户网站，并完成了对移动端的适配
+- 参与了公司网站项目，独立负责了后台系统的设计和开发，合作开发一个门户网站，并完成了对移动端的适配
 - 进行了公司内部组件库的部分升级，完成了从vue2到vue3的版本迭代
 - 独立负责了门户平台的研发，平台中的文件系统，后台管理系统的研发，周报系统的迭代和维护
 
@@ -66,7 +66,7 @@ tagline: web前端开发
 <div :style="{display: 'flex', justifyContent: 'space-between',fontSize:'22px'}">
   <div :style="{fontWeight:'bold'}">溯源项目</div>
   <div :style="{fontWeight:'bold'}">web开发</div>
-  <div :style="{fontWeight:'bold'}">2022/7 - 2023/9</div>
+  <div :style="{fontWeight:'bold'}">2023/7 - 2023/9</div>
 </div>
 
 【涉及技术】：vue2全家桶，element-ui，echarts
